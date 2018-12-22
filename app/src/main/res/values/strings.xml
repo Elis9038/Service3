@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Service app 3</string>
+    <string name="go">Go</string>
+    <string name="wait">Wait</string>
+    <string name="clr">Clear</string>
+    <string name="prim">Prime</string>
+</resources>
